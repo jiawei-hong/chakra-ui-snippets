@@ -255,4 +255,32 @@
     "body": "<Radio value='$1'>$2</Radio>",
     "description": "chakra radio"
   },
+  "chakra-range-slider": {
+    "prefix": "ck-range-slider",
+    "body": [
+      "<RangeSlider defaultValue={[$1, $2]}>",
+      "  $3",
+      "</RangeSlider>"
+    ],
+    "description": "chakra range slider"
+  },
+  "chakra-range-slider-track": {
+    "prefix": "ck-range-slider-track",
+    "body": [
+      "<RangeSliderTrack>",
+      "  $1",
+      "</RangeSliderTrack>"
+    ],
+    "description": "chakra range slider track"
+  },
+  "chakra-range-slider-filled-track": {
+    "prefix": "ck-range-slider-filled-track",
+    "body": "<RangeSliderFilledTrack />",
+    "description": "chakra range slider filled track"
+  },
+  "chakra-range-slider-thumb": {
+    "prefix": "ck-range-slider-thumb",
+    "body": "<RangeSliderThumb index={$1} />",
+    "description": "chakra range slider thumb"
+  },
 }
