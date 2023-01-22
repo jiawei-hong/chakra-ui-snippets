@@ -98,4 +98,236 @@
     ],
     "description": "chakra wrap"
   },
+  "chakra-forms-button": {
+    "prefix": [
+      "ck-btn",
+      "ck-button"
+    ],
+    "body": [
+      "<Button variant='$1'>",
+      "  $2",
+      "</Button>"
+    ],
+    "description": "chakra button"
+  },
+  "chakra-forms-checkbox": {
+    "prefix": [
+      "ck-checkbox",
+      "ck-check-box"
+    ],
+    "body": [
+      "<Checkbox size='$1'>",
+      "  $2",
+      "</Checkbox>"
+    ],
+    "description": "chakra checkbox"
+  },
+  "chakra-forms-checkbox-group": {
+    "prefix": "ck-checkbox-group",
+    "body": [
+      "<CheckboxGroup defaultValue={[$1]}>",
+      "  $2",
+      "</CheckboxGroup>"
+    ],
+    "description": "chakra checkbox group"
+  },
+  "chakra-forms-editable": {
+    "prefix": "ck-editable",
+    "body": [
+      "<Editable defaultValue='$1'>",
+      "  $2",
+      "</Editable>"
+    ],
+    "description": "chakra editable"
+  },
+  "chakra-forms-editable-preview": {
+    "prefix": "ck-editable-preview",
+    "body": "<EditablePreview />",
+    "description": "chakra editable preview"
+  },
+  "chakra-forms-editable-input": {
+    "prefix": "ck-editable-input",
+    "body": "<EditableInput />",
+    "description": "chakra editable input"
+  },
+  "chakra-forms-editable-textarea": {
+    "prefix": "ck-editable-textarea",
+    "body": "<EditableTextarea />",
+    "description": "chakra editable textarea"
+  },
+  "chakra-forms-form-control": {
+    "prefix": "ck-form-control",
+    "body": [
+      "<FormControl>",
+      "  $1",
+      "</FormControl>"
+    ],
+    "description": "chakra form control"
+  },
+  "chakra-forms-form-label": {
+    "prefix": "ck-form-label",
+    "body": "<FormLabel>$1</FormLabel>",
+    "description": "chakra form label"
+  },
+  "chakra-forms-form-error-message": {
+    "prefix": "ck-form-error-message",
+    "body": "<FormErrorMessage>$1</FormErrorMessage>",
+    "description": "chakra form error message"
+  },
+  "chakra-forms-form-helper-text": {
+    "prefix": "ck-form-helper-text",
+    "body": "<FormHelperText>$1</FormHelperText>",
+    "description": "chakra form helper text"
+  },
+  "chakra-icon-button": {
+    "prefix": [
+      "ck-icon-btn",
+      "ck-icon-button"
+    ],
+    "body": [
+      "<IconButton aria-label='$1' icon={$2}/>"
+    ],
+    "description": "chakra icon button"
+  },
+  "chakra-input": {
+    "prefix": "ck-input",
+    "body": "<Input variant='$1' placeholder='$2' />",
+    "description": "chakra input"
+  },
+  "chakra-number-input": {
+    "prefix": "ck-number-input",
+    "body": [
+      "<NumberInput defaultValue={$1} min={$2} max={$3} step={$2}>",
+      "  $5",
+      "</NumberInput>"
+    ],
+    "description": "chakra number input"
+  },
+  "chakra-number-input-field": {
+    "prefix": "ck-number-input-field",
+    "body": "<NumberInputField  />",
+    "description": "chakra number input field"
+  },
+  "chakra-number-input-stepper": {
+    "prefix": "ck-number-input-stepper",
+    "body": [
+      "<NumberInputStepper>",
+      "  $1",
+      "</NumberInputStepper>"
+    ],
+    "description": "chakra number stepper"
+  },
+  "chakra-number-increment-stepper": {
+    "prefix": "ck-number-increment-stepper",
+    "body": "<NumberIncrementStepper />",
+    "description": "chakra number increment stepper"
+  },
+  "chakra-number-decrement-stepper": {
+    "prefix": "ck-number-decrement-stepper",
+    "body": "<NumberDecrementStepper />",
+    "description": "chakra number decrement stepper"
+  },
+  "chakra-pin-input": {
+    "prefix": "ck-pin-input",
+    "body": [
+      "<PinInput>",
+      "  $1",
+      "</PinInput>"
+    ],
+    "description": "chakra pin input"
+  },
+  "chakra-pin-input-field": {
+    "prefix": "ck-pin-input-field",
+    "body": "<PinInputField />",
+    "description": "chakra pin input field"
+  },
+  "chakra-radio-group": {
+    "prefix": "ck-radio-group",
+    "body": [
+      "<RadioGroup onChange={$1} value={$2}>",
+      "  $1",
+      "</RadioGroup>"
+    ],
+    "description": "chakra radio group"
+  },
+  "chakra-radio": {
+    "prefix": "ck-radio",
+    "body": "<Radio value='$1'>$2</Radio>",
+    "description": "chakra radio"
+  },
+  "chakra-range-slider": {
+    "prefix": "ck-range-slider",
+    "body": [
+      "<RangeSlider defaultValue={[$1, $2]}>",
+      "  $3",
+      "</RangeSlider>"
+    ],
+    "description": "chakra range slider"
+  },
+  "chakra-range-slider-track": {
+    "prefix": "ck-range-slider-track",
+    "body": [
+      "<RangeSliderTrack>",
+      "  $1",
+      "</RangeSliderTrack>"
+    ],
+    "description": "chakra range slider track"
+  },
+  "chakra-range-slider-filled-track": {
+    "prefix": "ck-range-slider-filled-track",
+    "body": "<RangeSliderFilledTrack />",
+    "description": "chakra range slider filled track"
+  },
+  "chakra-range-slider-thumb": {
+    "prefix": "ck-range-slider-thumb",
+    "body": "<RangeSliderThumb index={$1} />",
+    "description": "chakra range slider thumb"
+  },
+  "chakra-select": {
+    "prefix": "ck-select",
+    "body": [
+      "<Select placeholder='$1'>",
+      "  $2",
+      "</Select>"
+    ],
+    "description": "chakra select"
+  },
+  "chakra-slider": {
+    "prefix": "ck-slider",
+    "body": [
+      "<Slider defaultValue={$1}>>",
+      "  $2",
+      "</Slider>"
+    ],
+    "description": "chakra slider"
+  },
+  "chakra-slider-track": {
+    "prefix": "ck-slider-track",
+    "body": [
+      "<SliderTrack>",
+      "  $1",
+      "</SliderTrack>"
+    ],
+    "description": "chakra slider track"
+  },
+  "chakra-slider-filled-track": {
+    "prefix": "ck-slider-filled-track",
+    "body": "<SliderFilledTrack />",
+    "description": "chakra slider filled track"
+  },
+  "chakra-slider-thumb": {
+    "prefix": "ck-slider-thumb",
+    "body": "<SliderThumb />",
+    "description": "chakra slider thumb"
+  },
+  "chakra-switch": {
+    "prefix": "ck-switch",
+    "body": "<Switch size={$1} id={'$2'} />",
+    "description": "chakra switch"
+  },
+  "chakra-textarea": {
+    "prefix": "ck-textarea",
+    "body": "<Textarea placeholder='$1' />",
+    "description": "chakra textarea"
+  },
 }
