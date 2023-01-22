@@ -131,4 +131,28 @@
     ],
     "description": "chakra checkbox group"
   },
+  "chakra-forms-editable": {
+    "prefix": "ck-editable",
+    "body": [
+      "<Editable defaultValue='$1'>",
+      "  $2",
+      "</Editable>"
+    ],
+    "description": "chakra editable"
+  },
+  "chakra-forms-editable-preview": {
+    "prefix": "ck-editable-preview",
+    "body": "<EditablePreview />",
+    "description": "chakra editable preview"
+  },
+  "chakra-forms-editable-input": {
+    "prefix": "ck-editable-input",
+    "body": "<EditableInput />",
+    "description": "chakra editable input"
+  },
+  "chakra-forms-editable-textarea": {
+    "prefix": "ck-editable-textarea",
+    "body": "<EditableTextarea />",
+    "description": "chakra editable textarea"
+  },
 }
