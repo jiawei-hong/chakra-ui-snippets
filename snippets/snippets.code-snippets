@@ -227,4 +227,18 @@
     "body": "<NumberDecrementStepper />",
     "description": "chakra number decrement stepper"
   },
+  "chakra-pin-input": {
+    "prefix": "ck-pin-input",
+    "body": [
+      "<PinInput>",
+      "  $1",
+      "</PinInput>"
+    ],
+    "description": "chakra pin input"
+  },
+  "chakra-pin-input-field": {
+    "prefix": "ck-pin-input-field",
+    "body": "<PinInputField />",
+    "description": "chakra pin input field"
+  },
 }
