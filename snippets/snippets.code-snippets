@@ -292,4 +292,32 @@
     ],
     "description": "chakra select"
   },
+  "chakra-slider": {
+    "prefix": "ck-slider",
+    "body": [
+      "<Slider defaultValue={$1}>>",
+      "  $2",
+      "</Slider>"
+    ],
+    "description": "chakra slider"
+  },
+  "chakra-slider-track": {
+    "prefix": "ck-slider-track",
+    "body": [
+      "<SliderTrack>",
+      "  $1",
+      "</SliderTrack>"
+    ],
+    "description": "chakra slider track"
+  },
+  "chakra-slider-filled-track": {
+    "prefix": "ck-slider-filled-track",
+    "body": "<SliderFilledTrack />",
+    "description": "chakra slider filled track"
+  },
+  "chakra-slider-thumb": {
+    "prefix": "ck-slider-thumb",
+    "body": "<SliderThumb />",
+    "description": "chakra slider thumb"
+  },
 }
