@@ -98,4 +98,16 @@
     ],
     "description": "chakra wrap"
   },
+  "chakra-forms-button": {
+    "prefix": [
+      "ck-btn",
+      "ck-button"
+    ],
+    "body": [
+      "<Button variant='$1'>",
+      "  $2",
+      "</Button>"
+    ],
+    "description": "chakra button"
+  },
 }
