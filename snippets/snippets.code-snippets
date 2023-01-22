@@ -110,4 +110,25 @@
     ],
     "description": "chakra button"
   },
+  "chakra-forms-checkbox": {
+    "prefix": [
+      "ck-checkbox",
+      "ck-check-box"
+    ],
+    "body": [
+      "<Checkbox size='$1'>",
+      "  $2",
+      "</Checkbox>"
+    ],
+    "description": "chakra checkbox"
+  },
+  "chakra-forms-checkbox-group": {
+    "prefix": "ck-checkbox-group",
+    "body": [
+      "<CheckboxGroup defaultValue={[$1]}>",
+      "  $2",
+      "</CheckboxGroup>"
+    ],
+    "description": "chakra checkbox group"
+  },
 }
