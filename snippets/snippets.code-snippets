@@ -194,4 +194,37 @@
     "body": "<Input variant='$1' placeholder='$2' />",
     "description": "chakra input"
   },
+  "chakra-number-input": {
+    "prefix": "ck-number-input",
+    "body": [
+      "<NumberInput defaultValue={$1} min={$2} max={$3} step={$2}>",
+      "  $5",
+      "</NumberInput>"
+    ],
+    "description": "chakra number input"
+  },
+  "chakra-number-input-field": {
+    "prefix": "ck-number-input-field",
+    "body": "<NumberInputField  />",
+    "description": "chakra number input field"
+  },
+  "chakra-number-input-stepper": {
+    "prefix": "ck-number-input-stepper",
+    "body": [
+      "<NumberInputStepper>",
+      "  $1",
+      "</NumberInputStepper>"
+    ],
+    "description": "chakra number stepper"
+  },
+  "chakra-number-increment-stepper": {
+    "prefix": "ck-number-increment-stepper",
+    "body": "<NumberIncrementStepper />",
+    "description": "chakra number increment stepper"
+  },
+  "chakra-number-decrement-stepper": {
+    "prefix": "ck-number-decrement-stepper",
+    "body": "<NumberDecrementStepper />",
+    "description": "chakra number decrement stepper"
+  },
 }
