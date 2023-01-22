@@ -325,4 +325,9 @@
     "body": "<Switch size={$1} id={'$2'} />",
     "description": "chakra switch"
   },
+  "chakra-textarea": {
+    "prefix": "ck-textarea",
+    "body": "<Textarea placeholder='$1' />",
+    "description": "chakra textarea"
+  },
 }
