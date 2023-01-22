@@ -188,5 +188,10 @@
       "<IconButton aria-label='$1' icon={$2}/>"
     ],
     "description": "chakra icon button"
-  }
+  },
+  "chakra-input": {
+    "prefix": "ck-input",
+    "body": "<Input variant='$1' placeholder='$2' />",
+    "description": "chakra input"
+  },
 }
