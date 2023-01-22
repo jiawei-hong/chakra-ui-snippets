@@ -241,4 +241,18 @@
     "body": "<PinInputField />",
     "description": "chakra pin input field"
   },
+  "chakra-radio-group": {
+    "prefix": "ck-radio-group",
+    "body": [
+      "<RadioGroup onChange={$1} value={$2}>",
+      "  $1",
+      "</RadioGroup>"
+    ],
+    "description": "chakra radio group"
+  },
+  "chakra-radio": {
+    "prefix": "ck-radio",
+    "body": "<Radio value='$1'>$2</Radio>",
+    "description": "chakra radio"
+  },
 }
