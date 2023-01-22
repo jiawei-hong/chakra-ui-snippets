@@ -320,4 +320,9 @@
     "body": "<SliderThumb />",
     "description": "chakra slider thumb"
   },
+  "chakra-switch": {
+    "prefix": "ck-switch",
+    "body": "<Switch size={$1} id={'$2'} />",
+    "description": "chakra switch"
+  },
 }
