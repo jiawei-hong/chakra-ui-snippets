@@ -1,1 +1,101 @@
-{}
+{
+  "chakra-layout-aspectratio": {
+    "prefix": "ck-aspect-ratio",
+    "body": [
+      "<AspectRatio maxW='$1' ratio={$2}>",
+      "  $3",
+      "</AspectRatio>"
+    ],
+    "description": "chakra aspectratio"
+  },
+  "chakra-layout-box": {
+    "prefix": "ck-box",
+    "body": [
+      "<Box>",
+      "  $1",
+      "</Box>"
+    ],
+    "description": "chakra box"
+  },
+  "chakra-layout-center": {
+    "prefix": "ck-center",
+    "body": [
+      "<Center w='$1' h='$2'>",
+      "  $3",
+      "</Center>"
+    ],
+    "description": "chakra center"
+  },
+  "chakra-layout-container": {
+    "prefix": "ck-container",
+    "body": [
+      "<Container maxW='$1'>",
+      "  $2",
+      "</Container>"
+    ],
+    "description": "chakra container"
+  },
+  "chakra-layout-flex": {
+    "prefix": "ck-flex",
+    "body": [
+      "<Flex>",
+      "  $1",
+      "</Flex>"
+    ],
+    "description": "chakra flex"
+  },
+  "chakra-layout-grid": {
+    "prefix": "ck-grid",
+    "body": [
+      "<Grid templateColumns='$1' gap={$2}>",
+      "  $3",
+      "</Grid>"
+    ],
+    "description": "chakra grid"
+  },
+  "chakra-layout-simple-grid": {
+    "prefix": "ck-simple-grid",
+    "body": [
+      "<SimpleGrid columns={$1} spacing={$2}>",
+      "  $3",
+      "</SimpleGrid>"
+    ],
+    "description": "chakra simple grid"
+  },
+  "chakra-layout-stack": {
+    "prefix": "ck-stack",
+    "body": [
+      "<Stack direction={$1} spacing={$2}>",
+      "  $3",
+      "</Stack>"
+    ],
+    "description": "chakra stack"
+  },
+  "chakra-layout-hstack": {
+    "prefix": "ck-hstack",
+    "body": [
+      "<HStack spacing={$1}>",
+      "  $2",
+      "</HStack>"
+    ],
+    "description": "chakra hstack"
+  },
+  "chakra-layout-vstack": {
+    "prefix": "ck-vstack",
+    "body": [
+      "<VStack spacing={$1}>",
+      "  $2",
+      "</VStack>"
+    ],
+    "description": "chakra vstack"
+  },
+  "chakra-layout-wrap": {
+    "prefix": "ck-wrap",
+    "body": [
+      "<Wrap>",
+      "  $1",
+      "</Wrap>"
+    ],
+    "description": "chakra wrap"
+  },
+}
