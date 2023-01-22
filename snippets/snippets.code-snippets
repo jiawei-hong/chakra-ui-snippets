@@ -155,4 +155,28 @@
     "body": "<EditableTextarea />",
     "description": "chakra editable textarea"
   },
+  "chakra-forms-form-control": {
+    "prefix": "ck-form-control",
+    "body": [
+      "<FormControl>",
+      "  $1",
+      "</FormControl>"
+    ],
+    "description": "chakra form control"
+  },
+  "chakra-forms-form-label": {
+    "prefix": "ck-form-label",
+    "body": "<FormLabel>$1</FormLabel>",
+    "description": "chakra form label"
+  },
+  "chakra-forms-form-error-message": {
+    "prefix": "ck-form-error-message",
+    "body": "<FormErrorMessage>$1</FormErrorMessage>",
+    "description": "chakra form error message"
+  },
+  "chakra-forms-form-helper-text": {
+    "prefix": "ck-form-helper-text",
+    "body": "<FormHelperText>$1</FormHelperText>",
+    "description": "chakra form helper text"
+  },
 }
