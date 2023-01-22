@@ -283,4 +283,13 @@
     "body": "<RangeSliderThumb index={$1} />",
     "description": "chakra range slider thumb"
   },
+  "chakra-select": {
+    "prefix": "ck-select",
+    "body": [
+      "<Select placeholder='$1'>",
+      "  $2",
+      "</Select>"
+    ],
+    "description": "chakra select"
+  },
 }
