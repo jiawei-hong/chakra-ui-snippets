@@ -179,4 +179,14 @@
     "body": "<FormHelperText>$1</FormHelperText>",
     "description": "chakra form helper text"
   },
+  "chakra-icon-button": {
+    "prefix": [
+      "ck-icon-btn",
+      "ck-icon-button"
+    ],
+    "body": [
+      "<IconButton aria-label='$1' icon={$2}/>"
+    ],
+    "description": "chakra icon button"
+  }
 }
