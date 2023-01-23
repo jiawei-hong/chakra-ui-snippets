@@ -4,6 +4,16 @@
     "body": "const theme = useTheme()",
     "description": "🪄 Chakra UI: useTheme"
   },
+  "chakra-hook-use-outside-click": {
+    "prefix": "chakra-use-outside-click",
+    "body": [
+      "useOutsideClick({",
+      "\tref: $1,",
+      "\thandler: () => $2,",
+      "})"
+    ],
+    "description": "🪄 Chakra UI: useOutSideClick"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
