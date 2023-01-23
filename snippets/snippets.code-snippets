@@ -13,6 +13,11 @@
     ],
     "description": "🪄 Chakra UI: Aspect Ratio"
   },
+  "chakra-hook-use-disclosure": {
+    "prefix": "chakra-use-disclosure",
+    "body": "const { isOpen, onOpen, onClose } = useDisclosure()",
+    "description": "🪄 Chakra UI: useDisclosure"
+  },
   "chakra-layout-box": {
     "prefix": "chakra-box",
     "body": [
