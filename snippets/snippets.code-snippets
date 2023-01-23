@@ -14,6 +14,16 @@
     ],
     "description": "🪄 Chakra UI: useOutSideClick"
   },
+  "chakra-hook-use-disclosure": {
+    "prefix": "chakra-use-disclosure",
+    "body": "const { isOpen, onOpen, onClose } = useDisclosure()",
+    "description": "🪄 Chakra UI: useDisclosure"
+  },
+  "chakra-hook-use-clipboard": {
+    "prefix": "chakra-use-clipboard",
+    "body": "const { onCopy, value, setValue, hasCopied } = useClipboard('');",
+    "description": "🪄 Chakra UI: useClipboard"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
@@ -22,11 +32,6 @@
       "</AspectRatio>"
     ],
     "description": "🪄 Chakra UI: Aspect Ratio"
-  },
-  "chakra-hook-use-disclosure": {
-    "prefix": "chakra-use-disclosure",
-    "body": "const { isOpen, onOpen, onClose } = useDisclosure()",
-    "description": "🪄 Chakra UI: useDisclosure"
   },
   "chakra-layout-box": {
     "prefix": "chakra-box",
