@@ -355,4 +355,19 @@
     "body": "<Tag>$1</Tag>",
     "description": "chakra tag"
   },
+  "chakra-avatar": {
+    "prefix": "ck-avatar",
+    "body": "<Avatar name='$1' src='$2' />",
+    "description": "chakra avatar"
+  },
+  "chakra-icon": {
+    "prefix": "ck-icon",
+    "body": "<Icon as={$1} w={$2} h={$3} color='$4' />",
+    "description": "chakra icon"
+  },
+  "chakra-image": {
+    "prefix": "ck-image",
+    "body": "<Image src={$1} alt='$2' />",
+    "description": "chakra image"
+  },
 }
