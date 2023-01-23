@@ -13,6 +13,10 @@ Chakra UI Snippets Extension is designed to help developers quickly and easily a
 
 - support chakra-ui data display (code, divider, kbd, tag)
 
+### 0.0.3
+
+- support chakra-ui a part hooks (`useClipboard` `useDisclosure` `useOutsideClick` `useTheme`)
+
 ---
 
 **Enjoy!**
