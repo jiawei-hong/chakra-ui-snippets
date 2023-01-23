@@ -334,5 +334,10 @@
     "prefix": "ck-badge",
     "body": "<Badge variant='$1'>$2</Badge>",
     "description": "chakra badge"
-  }
+  },
+  "chakra-code": {
+    "prefix": "ck-code",
+    "body": "<Code>$1</Code>",
+    "description": "chakra code"
+  },
 }
