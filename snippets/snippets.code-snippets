@@ -330,4 +330,9 @@
     "body": "<Textarea placeholder='$1' />",
     "description": "chakra textarea"
   },
+  "chakra-badge": {
+    "prefix": "ck-badge",
+    "body": "<Badge variant='$1'>$2</Badge>",
+    "description": "chakra badge"
+  }
 }
