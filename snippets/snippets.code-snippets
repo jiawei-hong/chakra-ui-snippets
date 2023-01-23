@@ -1,4 +1,9 @@
 {
+  "chakra-hook-use-theme": {
+    "prefix": "ck-use-theme",
+    "body": "const theme = useTheme()",
+    "description": "chakra useTheme"
+  },
   "chakra-layout-aspectratio": {
     "prefix": "ck-aspect-ratio",
     "body": [
