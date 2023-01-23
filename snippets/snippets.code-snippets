@@ -1,107 +1,107 @@
 {
   "chakra-hook-use-theme": {
-    "prefix": "ck-use-theme",
+    "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
-    "description": "chakra useTheme"
+    "description": "🪄 Chakra UI: useTheme"
   },
-  "chakra-layout-aspectratio": {
-    "prefix": "ck-aspect-ratio",
+  "chakra-layout-aspect-ratio": {
+    "prefix": "chakra-aspect-ratio",
     "body": [
       "<AspectRatio maxW='$1' ratio={$2}>",
-      "  $3",
+      "\t$3",
       "</AspectRatio>"
     ],
-    "description": "chakra aspectratio"
+    "description": "🪄 Chakra UI: Aspect Ratio"
   },
   "chakra-layout-box": {
-    "prefix": "ck-box",
+    "prefix": "chakra-box",
     "body": [
       "<Box>",
-      "  $1",
+      "\t$1",
       "</Box>"
     ],
-    "description": "chakra box"
+    "description": "🪄 Chakra UI: Box"
   },
   "chakra-layout-center": {
-    "prefix": "ck-center",
+    "prefix": "chakra-center",
     "body": [
       "<Center w='$1' h='$2'>",
-      "  $3",
+      "\t$3",
       "</Center>"
     ],
-    "description": "chakra center"
+    "description": "🪄 Chakra UI: Center"
   },
   "chakra-layout-container": {
-    "prefix": "ck-container",
+    "prefix": "chakra-container",
     "body": [
       "<Container maxW='$1'>",
-      "  $2",
+      "\t$2",
       "</Container>"
     ],
-    "description": "chakra container"
+    "description": "🪄 Chakra UI: Container"
   },
   "chakra-layout-flex": {
-    "prefix": "ck-flex",
+    "prefix": "chakra-flex",
     "body": [
       "<Flex>",
-      "  $1",
+      "\t$1",
       "</Flex>"
     ],
-    "description": "chakra flex"
+    "description": "🪄 Chakra UI: Flex"
   },
   "chakra-layout-grid": {
-    "prefix": "ck-grid",
+    "prefix": "chakra-grid",
     "body": [
       "<Grid templateColumns='$1' gap={$2}>",
-      "  $3",
+      "\t$3",
       "</Grid>"
     ],
-    "description": "chakra grid"
+    "description": "🪄 Chakra UI: Grid"
   },
   "chakra-layout-simple-grid": {
-    "prefix": "ck-simple-grid",
+    "prefix": "chakra-simple-grid",
     "body": [
       "<SimpleGrid columns={$1} spacing={$2}>",
-      "  $3",
+      "\t$3",
       "</SimpleGrid>"
     ],
-    "description": "chakra simple grid"
+    "description": "🪄 Chakra UI: Simple grid"
   },
   "chakra-layout-stack": {
-    "prefix": "ck-stack",
+    "prefix": "chakra-stack",
     "body": [
       "<Stack direction={$1} spacing={$2}>",
-      "  $3",
+      "\t$3",
       "</Stack>"
     ],
-    "description": "chakra stack"
+    "description": "🪄 Chakra UI: Stack"
   },
   "chakra-layout-hstack": {
-    "prefix": "ck-hstack",
+    "prefix": "chakra-hstack",
     "body": [
       "<HStack spacing={$1}>",
-      "  $2",
+      "\t$2",
       "</HStack>"
     ],
-    "description": "chakra hstack"
+    "description": "🪄 Chakra UI: HStack"
   },
   "chakra-layout-vstack": {
-    "prefix": "ck-vstack",
+    "prefix": "chakra-vstack",
     "body": [
       "<VStack spacing={$1}>",
-      "  $2",
+      "\t$2",
       "</VStack>"
     ],
-    "description": "chakra vstack"
+    "description": "🪄 Chakra UI: VStack"
   },
   "chakra-layout-wrap": {
-    "prefix": "ck-wrap",
+    "prefix": "chakra-wrap",
     "body": [
       "<Wrap>",
-      "  $1",
+      "\t$1",
       "</Wrap>"
     ],
-    "description": "chakra wrap"
+    "description": "🪄 Chakra UI: Wrap"
   },
   "chakra-forms-button": {
     "prefix": [
@@ -110,10 +110,10 @@
     ],
     "body": [
       "<Button variant='$1'>",
-      "  $2",
+      "\t$2",
       "</Button>"
     ],
-    "description": "chakra button"
+    "description": "🪄 Chakra UI: Button"
   },
   "chakra-forms-checkbox": {
     "prefix": [
@@ -122,67 +122,67 @@
     ],
     "body": [
       "<Checkbox size='$1'>",
-      "  $2",
+      "\t$2",
       "</Checkbox>"
     ],
-    "description": "chakra checkbox"
+    "description": "🪄 Chakra UI: Checkbox"
   },
   "chakra-forms-checkbox-group": {
-    "prefix": "ck-checkbox-group",
+    "prefix": "chakra-checkbox-group",
     "body": [
       "<CheckboxGroup defaultValue={[$1]}>",
-      "  $2",
+      "\t$2",
       "</CheckboxGroup>"
     ],
-    "description": "chakra checkbox group"
+    "description": "🪄 Chakra UI: Checkbox group"
   },
   "chakra-forms-editable": {
-    "prefix": "ck-editable",
+    "prefix": "chakra-editable",
     "body": [
       "<Editable defaultValue='$1'>",
-      "  $2",
+      "\t$2",
       "</Editable>"
     ],
-    "description": "chakra editable"
+    "description": "🪄 Chakra UI: Editable"
   },
   "chakra-forms-editable-preview": {
-    "prefix": "ck-editable-preview",
+    "prefix": "chakra-editable-preview",
     "body": "<EditablePreview />",
-    "description": "chakra editable preview"
+    "description": "🪄 Chakra UI: Editable preview"
   },
   "chakra-forms-editable-input": {
-    "prefix": "ck-editable-input",
+    "prefix": "chakra-editable-input",
     "body": "<EditableInput />",
-    "description": "chakra editable input"
+    "description": "🪄 Chakra UI: Editable input"
   },
   "chakra-forms-editable-textarea": {
-    "prefix": "ck-editable-textarea",
+    "prefix": "chakra-editable-textarea",
     "body": "<EditableTextarea />",
-    "description": "chakra editable textarea"
+    "description": "🪄 Chakra UI: Editable textarea"
   },
   "chakra-forms-form-control": {
-    "prefix": "ck-form-control",
+    "prefix": "chakra-form-control",
     "body": [
       "<FormControl>",
-      "  $1",
+      "\t$1",
       "</FormControl>"
     ],
-    "description": "chakra form control"
+    "description": "🪄 Chakra UI: Form control"
   },
   "chakra-forms-form-label": {
-    "prefix": "ck-form-label",
+    "prefix": "chakra-form-label",
     "body": "<FormLabel>$1</FormLabel>",
-    "description": "chakra form label"
+    "description": "🪄 Chakra UI: Form label"
   },
   "chakra-forms-form-error-message": {
-    "prefix": "ck-form-error-message",
+    "prefix": "chakra-form-error-message",
     "body": "<FormErrorMessage>$1</FormErrorMessage>",
-    "description": "chakra form error message"
+    "description": "🪄 Chakra UI: Form error message"
   },
   "chakra-forms-form-helper-text": {
-    "prefix": "ck-form-helper-text",
+    "prefix": "chakra-form-helper-text",
     "body": "<FormHelperText>$1</FormHelperText>",
-    "description": "chakra form helper text"
+    "description": "🪄 Chakra UI: Form helper text"
   },
   "chakra-icon-button": {
     "prefix": [
@@ -192,187 +192,187 @@
     "body": [
       "<IconButton aria-label='$1' icon={$2}/>"
     ],
-    "description": "chakra icon button"
+    "description": "🪄 Chakra UI: Icon button"
   },
   "chakra-input": {
-    "prefix": "ck-input",
+    "prefix": "chakra-input",
     "body": "<Input variant='$1' placeholder='$2' />",
-    "description": "chakra input"
+    "description": "🪄 Chakra UI: Input"
   },
   "chakra-number-input": {
-    "prefix": "ck-number-input",
+    "prefix": "chakra-number-input",
     "body": [
       "<NumberInput defaultValue={$1} min={$2} max={$3} step={$2}>",
-      "  $5",
+      "\t$5",
       "</NumberInput>"
     ],
-    "description": "chakra number input"
+    "description": "🪄 Chakra UI: Number input"
   },
   "chakra-number-input-field": {
-    "prefix": "ck-number-input-field",
+    "prefix": "chakra-number-input-field",
     "body": "<NumberInputField  />",
-    "description": "chakra number input field"
+    "description": "🪄 Chakra UI: Number input field"
   },
   "chakra-number-input-stepper": {
-    "prefix": "ck-number-input-stepper",
+    "prefix": "chakra-number-input-stepper",
     "body": [
       "<NumberInputStepper>",
-      "  $1",
+      "\t$1",
       "</NumberInputStepper>"
     ],
-    "description": "chakra number stepper"
+    "description": "🪄 Chakra UI: Number stepper"
   },
   "chakra-number-increment-stepper": {
-    "prefix": "ck-number-increment-stepper",
+    "prefix": "chakra-number-increment-stepper",
     "body": "<NumberIncrementStepper />",
-    "description": "chakra number increment stepper"
+    "description": "🪄 Chakra UI: Number increment stepper"
   },
   "chakra-number-decrement-stepper": {
-    "prefix": "ck-number-decrement-stepper",
+    "prefix": "chakra-number-decrement-stepper",
     "body": "<NumberDecrementStepper />",
-    "description": "chakra number decrement stepper"
+    "description": "🪄 Chakra UI: Number decrement stepper"
   },
   "chakra-pin-input": {
-    "prefix": "ck-pin-input",
+    "prefix": "chakra-pin-input",
     "body": [
       "<PinInput>",
-      "  $1",
+      "\t$1",
       "</PinInput>"
     ],
-    "description": "chakra pin input"
+    "description": "🪄 Chakra UI: Pin input"
   },
   "chakra-pin-input-field": {
-    "prefix": "ck-pin-input-field",
+    "prefix": "chakra-pin-input-field",
     "body": "<PinInputField />",
-    "description": "chakra pin input field"
+    "description": "🪄 Chakra UI: Pin input field"
   },
   "chakra-radio-group": {
-    "prefix": "ck-radio-group",
+    "prefix": "chakra-radio-group",
     "body": [
       "<RadioGroup onChange={$1} value={$2}>",
-      "  $1",
+      "\t$1",
       "</RadioGroup>"
     ],
-    "description": "chakra radio group"
+    "description": "🪄 Chakra UI: Radio group"
   },
   "chakra-radio": {
-    "prefix": "ck-radio",
+    "prefix": "chakra-radio",
     "body": "<Radio value='$1'>$2</Radio>",
-    "description": "chakra radio"
+    "description": "🪄 Chakra UI: Radio"
   },
   "chakra-range-slider": {
-    "prefix": "ck-range-slider",
+    "prefix": "chakra-range-slider",
     "body": [
       "<RangeSlider defaultValue={[$1, $2]}>",
-      "  $3",
+      "\t$3",
       "</RangeSlider>"
     ],
-    "description": "chakra range slider"
+    "description": "🪄 Chakra UI: Range slider"
   },
   "chakra-range-slider-track": {
-    "prefix": "ck-range-slider-track",
+    "prefix": "chakra-range-slider-track",
     "body": [
       "<RangeSliderTrack>",
-      "  $1",
+      "\t$1",
       "</RangeSliderTrack>"
     ],
-    "description": "chakra range slider track"
+    "description": "🪄 Chakra UI: Range slider track"
   },
   "chakra-range-slider-filled-track": {
-    "prefix": "ck-range-slider-filled-track",
+    "prefix": "chakra-range-slider-filled-track",
     "body": "<RangeSliderFilledTrack />",
-    "description": "chakra range slider filled track"
+    "description": "🪄 Chakra UI: Range slider filled track"
   },
   "chakra-range-slider-thumb": {
-    "prefix": "ck-range-slider-thumb",
+    "prefix": "chakra-range-slider-thumb",
     "body": "<RangeSliderThumb index={$1} />",
-    "description": "chakra range slider thumb"
+    "description": "🪄 Chakra UI: Range slider thumb"
   },
   "chakra-select": {
-    "prefix": "ck-select",
+    "prefix": "chakra-select",
     "body": [
       "<Select placeholder='$1'>",
-      "  $2",
+      "\t$2",
       "</Select>"
     ],
-    "description": "chakra select"
+    "description": "🪄 Chakra UI: Select"
   },
   "chakra-slider": {
-    "prefix": "ck-slider",
+    "prefix": "chakra-slider",
     "body": [
       "<Slider defaultValue={$1}>>",
-      "  $2",
+      "\t$2",
       "</Slider>"
     ],
-    "description": "chakra slider"
+    "description": "🪄 Chakra UI: Slider"
   },
   "chakra-slider-track": {
-    "prefix": "ck-slider-track",
+    "prefix": "chakra-slider-track",
     "body": [
       "<SliderTrack>",
-      "  $1",
+      "\t$1",
       "</SliderTrack>"
     ],
-    "description": "chakra slider track"
+    "description": "🪄 Chakra UI: Slider track"
   },
   "chakra-slider-filled-track": {
-    "prefix": "ck-slider-filled-track",
+    "prefix": "chakra-slider-filled-track",
     "body": "<SliderFilledTrack />",
-    "description": "chakra slider filled track"
+    "description": "🪄 Chakra UI: Slider filled track"
   },
   "chakra-slider-thumb": {
-    "prefix": "ck-slider-thumb",
+    "prefix": "chakra-slider-thumb",
     "body": "<SliderThumb />",
-    "description": "chakra slider thumb"
+    "description": "🪄 Chakra UI: Slider thumb"
   },
   "chakra-switch": {
-    "prefix": "ck-switch",
+    "prefix": "chakra-switch",
     "body": "<Switch size={$1} id={'$2'} />",
-    "description": "chakra switch"
+    "description": "🪄 Chakra UI: Switch"
   },
   "chakra-textarea": {
-    "prefix": "ck-textarea",
+    "prefix": "chakra-textarea",
     "body": "<Textarea placeholder='$1' />",
-    "description": "chakra textarea"
+    "description": "🪄 Chakra UI: Textarea"
   },
   "chakra-badge": {
-    "prefix": "ck-badge",
+    "prefix": "chakra-badge",
     "body": "<Badge variant='$1'>$2</Badge>",
-    "description": "chakra badge"
+    "description": "🪄 Chakra UI: Badge"
   },
   "chakra-code": {
-    "prefix": "ck-code",
+    "prefix": "chakra-code",
     "body": "<Code>$1</Code>",
-    "description": "chakra code"
+    "description": "🪄 Chakra UI: Code"
   },
   "chakra-divider": {
-    "prefix": "ck-divider",
+    "prefix": "chakra-divider",
     "body": "<Divider>$1</Divider>",
-    "description": "chakra divider"
+    "description": "🪄 Chakra UI: Divider"
   },
   "chakra-kbd": {
-    "prefix": "ck-kbd",
+    "prefix": "chakra-kbd",
     "body": "<Kbd>$1</Kbd>",
-    "description": "chakra kbd"
+    "description": "🪄 Chakra UI: Kbd"
   },
   "chakra-tag": {
-    "prefix": "ck-tag",
+    "prefix": "chakra-tag",
     "body": "<Tag>$1</Tag>",
-    "description": "chakra tag"
+    "description": "🪄 Chakra UI: Tag"
   },
   "chakra-avatar": {
-    "prefix": "ck-avatar",
+    "prefix": "chakra-avatar",
     "body": "<Avatar name='$1' src='$2' />",
-    "description": "chakra avatar"
+    "description": "🪄 Chakra UI: Avatar"
   },
   "chakra-icon": {
-    "prefix": "ck-icon",
+    "prefix": "chakra-icon",
     "body": "<Icon as={$1} w={$2} h={$3} color='$4' />",
-    "description": "chakra icon"
+    "description": "🪄 Chakra UI: Icon"
   },
   "chakra-image": {
-    "prefix": "ck-image",
+    "prefix": "chakra-image",
     "body": "<Image src={$1} alt='$2' />",
-    "description": "chakra image"
+    "description": "🪄 Chakra UI: Image"
   },
 }
