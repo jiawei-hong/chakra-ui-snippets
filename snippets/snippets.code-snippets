@@ -350,4 +350,9 @@
     "body": "<Kbd>$1</Kbd>",
     "description": "chakra kbd"
   },
+  "chakra-tag": {
+    "prefix": "ck-tag",
+    "body": "<Tag>$1</Tag>",
+    "description": "chakra tag"
+  },
 }
