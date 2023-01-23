@@ -340,4 +340,9 @@
     "body": "<Code>$1</Code>",
     "description": "chakra code"
   },
+  "chakra-divider": {
+    "prefix": "ck-divider",
+    "body": "<Divider>$1</Divider>",
+    "description": "chakra divider"
+  },
 }
