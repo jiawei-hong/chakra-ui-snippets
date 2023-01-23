@@ -330,4 +330,29 @@
     "body": "<Textarea placeholder='$1' />",
     "description": "chakra textarea"
   },
+  "chakra-badge": {
+    "prefix": "ck-badge",
+    "body": "<Badge variant='$1'>$2</Badge>",
+    "description": "chakra badge"
+  },
+  "chakra-code": {
+    "prefix": "ck-code",
+    "body": "<Code>$1</Code>",
+    "description": "chakra code"
+  },
+  "chakra-divider": {
+    "prefix": "ck-divider",
+    "body": "<Divider>$1</Divider>",
+    "description": "chakra divider"
+  },
+  "chakra-kbd": {
+    "prefix": "ck-kbd",
+    "body": "<Kbd>$1</Kbd>",
+    "description": "chakra kbd"
+  },
+  "chakra-tag": {
+    "prefix": "ck-tag",
+    "body": "<Tag>$1</Tag>",
+    "description": "chakra tag"
+  },
 }
