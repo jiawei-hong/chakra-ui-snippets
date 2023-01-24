@@ -64,6 +64,11 @@
     "body": "const prefersReducedMotion = usePrefersReducedMotion()",
     "description": "🪄 Chakra UI: usePrefersReducedMotion"
   },
+  "chakra-use-token": {
+    "prefix": "chakra-use-token",
+    "body": "const [$1] = useToken($2, [$3])",
+    "description": "🪄 Chakra UI: useToken"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
