@@ -29,6 +29,11 @@
     "body": "const [flag, setFlag] = useBoolean()",
     "description": "🪄 Chakra UI: useBoolean"
   },
+  "chakra-hook-use-dimensions": {
+    "prefix": "chakra-use-dimensions",
+    "body": "const dimensions = useDimensions(elementRef)",
+    "description": "🪄 Chakra UI: useDimensions"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
