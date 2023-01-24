@@ -29,6 +29,11 @@
     "body": "const [flag, setFlag] = useBoolean()",
     "description": "🪄 Chakra UI: useBoolean"
   },
+  "chakra-hook-use-breakpoint-value": {
+    "prefix": "chakra-use-breakpoint-value",
+    "body": "const variant = useBreakpointValue($1)",
+    "description": "🪄 Chakra UI: useBreakpointValue"
+  },
   "chakra-hook-use-dimensions": {
     "prefix": "chakra-use-dimensions",
     "body": "const dimensions = useDimensions(elementRef)",
