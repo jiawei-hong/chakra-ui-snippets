@@ -125,8 +125,8 @@
   },
   "chakra-forms-button": {
     "prefix": [
-      "ck-btn",
-      "ck-button"
+      "chakra-btn",
+      "chakra-button"
     ],
     "body": [
       "<Button variant='$1'>",
@@ -136,10 +136,7 @@
     "description": "🪄 Chakra UI: Button"
   },
   "chakra-forms-checkbox": {
-    "prefix": [
-      "ck-checkbox",
-      "ck-check-box"
-    ],
+    "prefix": "chakra-checkbox",
     "body": [
       "<Checkbox size='$1'>",
       "\t$2",
@@ -206,8 +203,8 @@
   },
   "chakra-icon-button": {
     "prefix": [
-      "ck-icon-btn",
-      "ck-icon-button"
+      "chakra-icon-btn",
+      "chakra-icon-button"
     ],
     "body": [
       "<IconButton aria-label='$1' icon={$2}/>"
