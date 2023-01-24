@@ -24,6 +24,11 @@
     "body": "const { onCopy, value, setValue, hasCopied } = useClipboard('');",
     "description": "🪄 Chakra UI: useClipboard"
   },
+  "chakra-hook-use-boolean": {
+    "prefix": "chakra-use-boolean",
+    "body": "const [flag, setFlag] = useBoolean()",
+    "description": "🪄 Chakra UI: useBoolean"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
