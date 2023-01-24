@@ -34,6 +34,11 @@
     "body": "const variant = useBreakpointValue($1)",
     "description": "🪄 Chakra UI: useBreakpointValue"
   },
+  "chakra-hook-use-const": {
+    "prefix": "chakra-use-const",
+    "body": "const $1 = useConst($2)",
+    "description": "🪄 Chakra UI: useConst"
+  },
   "chakra-hook-use-dimensions": {
     "prefix": "chakra-use-dimensions",
     "body": "const dimensions = useDimensions(elementRef)",
