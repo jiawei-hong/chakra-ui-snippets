@@ -2,7 +2,7 @@
   "name": "chakra-ui-snippets",
   "displayName": "chakra-ui-snippets",
   "description": "Chakra UI Snippets is a collection of code snippets for the Chakra UI library for React. It is designed to help developers quickly and easily add Chakra UI components to their projects.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "wei-hong",
   "engines": {
     "vscode": "^1.74.0"
