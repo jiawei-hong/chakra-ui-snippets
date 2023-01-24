@@ -59,6 +59,11 @@
     "body": "const refs = useMergeRefs($1, $2)",
     "description": "🪄 Chakra UI: useMergeRefs"
   },
+  "chakra-use-prefers-reduced-motion": {
+    "prefix": "chakra-use-prefers-reduced-motion",
+    "body": "const prefersReducedMotion = usePrefersReducedMotion()",
+    "description": "🪄 Chakra UI: usePrefersReducedMotion"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
