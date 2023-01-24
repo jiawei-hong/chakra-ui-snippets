@@ -44,6 +44,11 @@
     "body": "const dimensions = useDimensions(elementRef)",
     "description": "🪄 Chakra UI: useDimensions"
   },
+  "chakra-hook-use-controllableState": {
+    "prefix": "chakra-use-controllableState",
+    "body": "const [$1, set$2] = useControllableState($3)",
+    "description": "🪄 Chakra UI: useControllableState"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
