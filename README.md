@@ -17,6 +17,19 @@ Chakra UI Snippets Extension is designed to help developers quickly and easily a
 
 - support chakra-ui a part hooks (`useClipboard` `useDisclosure` `useOutsideClick` `useTheme`)
 
+### 0.0.4
+
+- support chakra-ui hooks
+  - `useBoolean`
+  - `useBreakpointValue`
+  - `useConst`
+  - `useControllable`
+  - `useDimensions`
+  - `useMediaQuery`
+  - `useMergeRefs`
+  - `usePrefersReducedMotion`
+  - `useToken`
+
 ---
 
 **Enjoy!**
