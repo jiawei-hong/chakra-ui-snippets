@@ -49,6 +49,11 @@
     "body": "const [$1, set$2] = useControllableState($3)",
     "description": "🪄 Chakra UI: useControllableState"
   },
+  "chakra-hook-use-mediaQuery": {
+    "prefix": "chakra-use-mediaQuery",
+    "body": "const [$1] = useMediaQuery('$2')",
+    "description": "🪄 Chakra UI: useMediaQuery"
+  },
   "chakra-layout-aspect-ratio": {
     "prefix": "chakra-aspect-ratio",
     "body": [
