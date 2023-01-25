@@ -149,6 +149,11 @@
     "body": "import { usePrefersReducedMotion } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import usePrefersReducedMotion"
   },
+  "Import useTheme": {
+    "prefix": "i-use-theme",
+    "body": "import { useTheme } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useTheme"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
