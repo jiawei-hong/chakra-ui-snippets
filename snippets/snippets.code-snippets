@@ -54,6 +54,21 @@
     "body": "import { Wrap } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Wrap"
   },
+  "Import Text": {
+    "prefix": "i-text",
+    "body": "import { Text } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Text"
+  },
+  "Import Heading": {
+    "prefix": "i-heading",
+    "body": "import { Heading } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Heading"
+  },
+  "Import Highlight": {
+    "prefix": "i-highlight",
+    "body": "import { Highlight } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Highlight"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
