@@ -4,6 +4,11 @@
     "body": "import { AspectRatio } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Aspect Ratio"
   },
+  "Import Box": {
+    "prefix": "i-box",
+    "body": "import { Box } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Box"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
