@@ -94,6 +94,11 @@
     "body": "import { Image } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Image"
   },
+  "Import useBoolean": {
+    "prefix": "i-use-boolean",
+    "body": "import { useBoolean } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useBoolean"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
