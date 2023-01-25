@@ -144,6 +144,11 @@
     "body": "import { useOutsideClick } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useOutsideClick"
   },
+  "Import usePrefersReducedMotion": {
+    "prefix": "i-use-prefers-reduced-motion",
+    "body": "import { usePrefersReducedMotion } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import usePrefersReducedMotion"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
