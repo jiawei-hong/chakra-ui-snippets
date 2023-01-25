@@ -124,6 +124,11 @@
     "body": "import { useDimensions } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useDimensions"
   },
+  "Import useDisclosure": {
+    "prefix": "i-use-disclosure",
+    "body": "import { useDisclosure } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useDisclosure"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
