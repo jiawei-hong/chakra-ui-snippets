@@ -19,6 +19,11 @@
     "body": "import { Container } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Container"
   },
+  "Import Flex": {
+    "prefix": "i-flex",
+    "body": "import { Flex } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Flex"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
