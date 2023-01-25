@@ -502,4 +502,13 @@
     "body": "<Heading as='$1' size='$2' noOfLines={$3}>$4</Heading>",
     "description": "🪄 Chakra UI: Heading"
   },
+  "Highlight": {
+    "prefix": "chakra-highlight",
+    "body": [
+      "<Highlight query='$1' style={{ $2 }}>",
+      "$3",
+      "</Highlight>"
+    ],
+    "description": "🪄 Chakra UI: Highlight"
+  }
 }
