@@ -1,4 +1,9 @@
 {
+  "Import Aspect Ratio": {
+    "prefix": "i-aspect-rato",
+    "body": "import { AspectRatio } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Aspect Ratio"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
