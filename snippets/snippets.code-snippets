@@ -139,6 +139,11 @@
     "body": "import { useMergeRefs } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useMergeRefs"
   },
+  "Import useOutsideClick": {
+    "prefix": "i-use-outside-click",
+    "body": "import { useOutsideClick } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useOutsideClick"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
