@@ -119,6 +119,11 @@
     "body": "import { useControllableState } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useControllableState"
   },
+  "Import useDimensions": {
+    "prefix": "i-use-dimensions",
+    "body": "import { useDimensions } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useDimensions"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
