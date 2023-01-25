@@ -492,4 +492,9 @@
     "body": "<Image src={$1} alt='$2' />",
     "description": "🪄 Chakra UI: Image"
   },
+  "Text": {
+    "prefix": "chakra-text",
+    "body": "<Text variant='$1'>$2</Text>",
+    "description": "🪄 Chakra UI: Text"
+  },
 }
