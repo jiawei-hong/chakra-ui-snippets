@@ -24,6 +24,11 @@
     "body": "import { Flex } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Flex"
   },
+  "Import Grid": {
+    "prefix": "i-grid",
+    "body": "import { Grid } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Grid"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
