@@ -69,6 +69,31 @@
     "body": "import { Highlight } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Highlight"
   },
+  "Import Avatar": {
+    "prefix": "i-avatar",
+    "body": "import { Avatar } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Avatar"
+  },
+  "Import AvatarBadge": {
+    "prefix": "i-avatar-badge",
+    "body": "import { AvatarBadge } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import AvatarBadge"
+  },
+  "Import AvatarGroup": {
+    "prefix": "i-avatar-group",
+    "body": "import { AvatarGroup } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import AvatarGroup"
+  },
+  "Import Icon": {
+    "prefix": "i-icon",
+    "body": "import { Icon } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Icon"
+  },
+  "Import Image": {
+    "prefix": "i-image",
+    "body": "import { Image } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Image"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
