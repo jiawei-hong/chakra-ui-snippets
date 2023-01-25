@@ -99,6 +99,11 @@
     "body": "import { useBoolean } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useBoolean"
   },
+  "Import useBreakpointValue": {
+    "prefix": "i-use-breakpoint-value",
+    "body": "import { useBreakpointValue } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useBreakpointValue"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
