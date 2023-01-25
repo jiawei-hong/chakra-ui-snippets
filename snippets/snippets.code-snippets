@@ -154,6 +154,11 @@
     "body": "import { useTheme } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useTheme"
   },
+  "Import useToken": {
+    "prefix": "i-use-token",
+    "body": "import { useToken } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useToken"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
