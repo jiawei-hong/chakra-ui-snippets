@@ -134,6 +134,11 @@
     "body": "import { useMediaQuery } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useMediaQuery"
   },
+  "Import useMergeRefs": {
+    "prefix": "i-use-merge-refs",
+    "body": "import { useMergeRefs } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useMergeRefs"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
