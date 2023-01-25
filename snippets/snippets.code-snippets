@@ -9,6 +9,11 @@
     "body": "import { Box } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Box"
   },
+  "Import Center": {
+    "prefix": "i-center",
+    "body": "import { Center } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Center"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
