@@ -94,6 +94,71 @@
     "body": "import { Image } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Image"
   },
+  "Import useBoolean": {
+    "prefix": "i-use-boolean",
+    "body": "import { useBoolean } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useBoolean"
+  },
+  "Import useBreakpointValue": {
+    "prefix": "i-use-breakpoint-value",
+    "body": "import { useBreakpointValue } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useBreakpointValue"
+  },
+  "Import useClipboard": {
+    "prefix": "i-use-clipboard",
+    "body": "import { useClipboard } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useClipboard"
+  },
+  "Import useConst": {
+    "prefix": "i-use-const",
+    "body": "import { useConst } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useConst"
+  },
+  "Import useControllableState": {
+    "prefix": "i-use-controllable-state",
+    "body": "import { useControllableState } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useControllableState"
+  },
+  "Import useDimensions": {
+    "prefix": "i-use-dimensions",
+    "body": "import { useDimensions } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useDimensions"
+  },
+  "Import useDisclosure": {
+    "prefix": "i-use-disclosure",
+    "body": "import { useDisclosure } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useDisclosure"
+  },
+  "Import useMediaQuery": {
+    "prefix": "i-use-media-query",
+    "body": "import { useMediaQuery } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useMediaQuery"
+  },
+  "Import useMergeRefs": {
+    "prefix": "i-use-merge-refs",
+    "body": "import { useMergeRefs } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useMergeRefs"
+  },
+  "Import useOutsideClick": {
+    "prefix": "i-use-outside-click",
+    "body": "import { useOutsideClick } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useOutsideClick"
+  },
+  "Import usePrefersReducedMotion": {
+    "prefix": "i-use-prefers-reduced-motion",
+    "body": "import { usePrefersReducedMotion } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import usePrefersReducedMotion"
+  },
+  "Import useTheme": {
+    "prefix": "i-use-theme",
+    "body": "import { useTheme } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useTheme"
+  },
+  "Import useToken": {
+    "prefix": "i-use-token",
+    "body": "import { useToken } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useToken"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
