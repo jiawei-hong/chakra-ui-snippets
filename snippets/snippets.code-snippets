@@ -34,6 +34,21 @@
     "body": "import { SimpleGrid } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import SimpleGrid"
   },
+  "Import Stack": {
+    "prefix": "i-stack",
+    "body": "import { Stack } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Stack"
+  },
+  "Import HStack": {
+    "prefix": "i-h-stack",
+    "body": "import { HStack } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import HStack"
+  },
+  "Import VStack": {
+    "prefix": "i-v-stack",
+    "body": "import { VStack } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import VStack"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
