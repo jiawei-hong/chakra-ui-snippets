@@ -114,6 +114,11 @@
     "body": "import { useConst } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useConst"
   },
+  "Import useControllableState": {
+    "prefix": "i-use-controllable-state",
+    "body": "import { useControllableState } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useControllableState"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
