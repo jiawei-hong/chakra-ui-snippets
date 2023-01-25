@@ -129,6 +129,11 @@
     "body": "import { useDisclosure } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useDisclosure"
   },
+  "Import useMediaQuery": {
+    "prefix": "i-use-media-query",
+    "body": "import { useMediaQuery } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import useMediaQuery"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
