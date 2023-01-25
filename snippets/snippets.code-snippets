@@ -49,6 +49,11 @@
     "body": "import { VStack } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import VStack"
   },
+  "Import Wrap": {
+    "prefix": "i-wrap",
+    "body": "import { Wrap } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Wrap"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
