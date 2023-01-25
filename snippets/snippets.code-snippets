@@ -497,4 +497,9 @@
     "body": "<Text variant='$1'>$2</Text>",
     "description": "🪄 Chakra UI: Text"
   },
+  "Heading": {
+    "prefix": "chakra-heading",
+    "body": "<Heading as='$1' size='$2' noOfLines={$3}>$4</Heading>",
+    "description": "🪄 Chakra UI: Heading"
+  },
 }
