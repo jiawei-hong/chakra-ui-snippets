@@ -159,6 +159,167 @@
     "body": "import { useToken } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useToken"
   },
+  "Import Button": {
+    "prefix": [
+      "i-btn",
+      "i-button"
+    ],
+    "body": "import { Button } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Button"
+  },
+  "Import Button Group": {
+    "prefix": "i-button-group",
+    "body": "import { ButtonGroup } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import ButtonGroup"
+  },
+  "Import Checkbox": {
+    "prefix": "i-checkbox",
+    "body": "import { Checkbox } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Checkbox"
+  },
+  "Import Checkbox Group": {
+    "prefix": "i-checkbox-group",
+    "body": "import { CheckboxGroup } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import CheckboxGroup"
+  },
+  "Import Editable": {
+    "prefix": "i-editable",
+    "body": [
+      "import {",
+      "\tEditable",
+      "\tEditableInput",
+      "\tEditableTextarea",
+      "\tEditablePreview",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Editable"
+  },
+  "Import FormControl": {
+    "prefix": "i-form-control",
+    "body": "import { FormControl } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormControl"
+  },
+  "Import FormLabel": {
+    "prefix": "i-form-label",
+    "body": "import { FormLabel } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormLabel"
+  },
+  "Import FormErrorMessage": {
+    "prefix": "i-form-error-message",
+    "body": "import { FormErrorMessage } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormErrorMessage"
+  },
+  "Import FormHelperText": {
+    "prefix": "i-form-helper-text",
+    "body": "import { FormHelperText } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormHelperText"
+  },
+  "Import IconButton": {
+    "prefix": [
+      "i-icon-btn",
+      "i-icon-button"
+    ],
+    "body": "import { IconButton } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import IconButton"
+  },
+  "Import Input": {
+    "prefix": "i-input",
+    "body": "import { Input } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Input"
+  },
+  "Import NumberInput": {
+    "prefix": "i-number-input",
+    "body": [
+      "import {",
+      "\tNumberInput",
+      "\tNumberInputField",
+      "\tNumberInputStepper",
+      "\tNumberIncrementStepper",
+      "\tNumberDecrementStepper",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Number Input"
+  },
+  "Import Pin Input": {
+    "prefix": "i-number-input",
+    "body": "import { PinInput, PinInputField } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Pin Input"
+  },
+  "Import Radio": {
+    "prefix": "i-radio",
+    "body": "import { Radio } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Radio"
+  },
+  "Import Radio Group": {
+    "prefix": "i-radio-group",
+    "body": "import { RadioGroup } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import RadioGroup"
+  },
+  "Import Select": {
+    "prefix": "i-select",
+    "body": "import { Select } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Select"
+  },
+  "Import Switch": {
+    "prefix": "i-switch",
+    "body": "import { Switch } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Switch"
+  },
+  "Import Textarea": {
+    "prefix": "i-textarea",
+    "body": "import { Textarea } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Textarea"
+  },
+  "Import RangeSlider": {
+    "prefix": "i-range-slider",
+    "body": [
+      "import {",
+      "\tRangeSlider",
+      "\tRangeSliderTrack",
+      "\tRangeSliderFilledTrack",
+      "\tRangeSliderThumb",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Range Slider"
+  },
+  "Import Slider": {
+    "prefix": "i-slider",
+    "body": [
+      "import {",
+      "\tSlider",
+      "\tSliderTrack",
+      "\tSliderFilledTrack",
+      "\tSliderThumb",
+      "\tSliderMark",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Slider"
+  },
+  "Import Badge": {
+    "prefix": "i-badge",
+    "body": "import { Badge } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Badge"
+  },
+  "Import Code": {
+    "prefix": "i-code",
+    "body": "import { Code } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Code"
+  },
+  "Import Divider": {
+    "prefix": "i-divider",
+    "body": "import { Divider } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Divider"
+  },
+  "Import Kbd": {
+    "prefix": "i-kbd",
+    "body": "import { Kbd } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Kbd"
+  },
+  "Import Tag": {
+    "prefix": "i-tag",
+    "body": "import { Tag } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Tag"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
