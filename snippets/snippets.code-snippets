@@ -172,6 +172,16 @@
     "body": "import { ButtonGroup } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import ButtonGroup"
   },
+  "Import Checkbox": {
+    "prefix": "i-checkbox",
+    "body": "import { Checkbox } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Checkbox"
+  },
+  "Import Checkbox Group": {
+    "prefix": "i-checkbox-group",
+    "body": "import { CheckboxGroup } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import CheckboxGroup"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
