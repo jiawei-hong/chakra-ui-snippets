@@ -182,6 +182,18 @@
     "body": "import { CheckboxGroup } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import CheckboxGroup"
   },
+  "Import Editable": {
+    "prefix": "i-editable",
+    "body": [
+      "import {",
+      "\tEditable",
+      "\tEditableInput",
+      "\tEditableTextarea",
+      "\tEditablePreview",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Editable"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
