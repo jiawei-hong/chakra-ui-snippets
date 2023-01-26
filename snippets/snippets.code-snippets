@@ -245,6 +245,11 @@
     "body": "import { PinInput, PinInputField } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Pin Input"
   },
+  "Import Radio": {
+    "prefix": "i-radio",
+    "body": "import { Radio } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Radio"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
