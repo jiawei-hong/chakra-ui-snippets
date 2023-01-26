@@ -295,6 +295,11 @@
     ],
     "description": "🪄 Chakra UI: Import Slider"
   },
+  "Import Badge": {
+    "prefix": "i-badge",
+    "body": "import { Badge } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Badge"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
