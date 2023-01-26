@@ -194,6 +194,26 @@
     ],
     "description": "🪄 Chakra UI: Import Editable"
   },
+  "Import FormControl": {
+    "prefix": "i-form-control",
+    "body": "import { FormControl } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormControl"
+  },
+  "Import FormLabel": {
+    "prefix": "i-form-label",
+    "body": "import { FormLabel } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormLabel"
+  },
+  "Import FormErrorMessage": {
+    "prefix": "i-form-error-message",
+    "body": "import { FormErrorMessage } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormErrorMessage"
+  },
+  "Import FormHelperText": {
+    "prefix": "i-form-helper-text",
+    "body": "import { FormHelperText } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import FormHelperText"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
