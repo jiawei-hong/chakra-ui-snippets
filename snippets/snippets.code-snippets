@@ -159,6 +159,19 @@
     "body": "import { useToken } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import useToken"
   },
+  "Import Button": {
+    "prefix": [
+      "i-btn",
+      "i-button"
+    ],
+    "body": "import { Button } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Button"
+  },
+  "Import Button Group": {
+    "prefix": "i-button-group",
+    "body": "import { ButtonGroup } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import ButtonGroup"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
