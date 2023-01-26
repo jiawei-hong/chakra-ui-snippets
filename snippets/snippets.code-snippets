@@ -222,6 +222,11 @@
     "body": "import { IconButton } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import IconButton"
   },
+  "Import Input": {
+    "prefix": "i-input",
+    "body": "import { Input } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Input"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
