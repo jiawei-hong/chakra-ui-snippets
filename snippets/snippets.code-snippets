@@ -270,6 +270,18 @@
     "body": "import { Textarea } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Textarea"
   },
+  "Import RangeSlider": {
+    "prefix": "i-range-slider",
+    "body": [
+      "import {",
+      "\tRangeSlider",
+      "\tRangeSliderTrack",
+      "\tRangeSliderFilledTrack",
+      "\tRangeSliderThumb",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Range Slider"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
