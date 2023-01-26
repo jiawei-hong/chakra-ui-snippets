@@ -227,6 +227,19 @@
     "body": "import { Input } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Input"
   },
+  "Import NumberInput": {
+    "prefix": "i-number-input",
+    "body": [
+      "import {",
+      "\tNumberInput",
+      "\tNumberInputField",
+      "\tNumberInputStepper",
+      "\tNumberIncrementStepper",
+      "\tNumberDecrementStepper",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Number Input"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
