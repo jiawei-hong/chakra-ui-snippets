@@ -30,6 +30,55 @@ Chakra UI Snippets Extension is designed to help developers quickly and easily a
   - `usePrefersReducedMotion`
   - `useToken`
 
+### 0.0.5
+
+- support quickly snippets
+
+  - `Avatar`
+  - `Icon`
+  - `Image`
+
+- support imports snippets
+  - `Button`
+  - `ButtonGroup`
+  - `Editable`
+  - `EditableInput`
+  - `EditableTextarea`
+  - `EditablePreview`
+  - `Checkbox`
+  - `CheckboxGroup`
+  - `IconButton`
+  - `Radio`
+  - `RadioGroup`
+  - `Select`
+  - `Switch`
+  - `Textarea`
+  - `NumberInput`
+  - `NumberInputField`
+  - `NumberInputStepper`
+  - `NumberIncrementStepper`
+  - `NumberDecrementStepper`
+  - `PinInput`
+  - `PinInputField`
+  - `FormControl`
+  - `FormLabel`
+  - `FormErrorMessage`
+  - `FormHelperText`
+  - `Slider`
+  - `SliderTrack`
+  - `SliderFilledTrack`
+  - `SliderThumb`
+  - `SliderMark`
+  - `RangeSlider`
+  - `RangeSliderTrack`
+  - `RangeSliderFilledTrack`
+  - `RangeSliderThumb`
+  - `Badge`
+  - `Code`
+  - `Divider`
+  - `Kbd`
+  - `Tag`
+
 ---
 
 **Enjoy!**
