@@ -282,6 +282,19 @@
     ],
     "description": "🪄 Chakra UI: Import Range Slider"
   },
+  "Import Slider": {
+    "prefix": "i-slider",
+    "body": [
+      "import {",
+      "\tSlider",
+      "\tSliderTrack",
+      "\tSliderFilledTrack",
+      "\tSliderThumb",
+      "\tSliderMark",
+      "} from '@chakra-ui/react'"
+    ],
+    "description": "🪄 Chakra UI: Import Slider"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
