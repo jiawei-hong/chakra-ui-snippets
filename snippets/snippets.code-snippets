@@ -305,6 +305,11 @@
     "body": "import { Code } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Code"
   },
+  "Import Divider": {
+    "prefix": "i-divider",
+    "body": "import { Divider } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Divider"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
