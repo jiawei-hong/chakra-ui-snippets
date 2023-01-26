@@ -240,6 +240,11 @@
     ],
     "description": "🪄 Chakra UI: Import Number Input"
   },
+  "Import Pin Input": {
+    "prefix": "i-number-input",
+    "body": "import { PinInput, PinInputField } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Pin Input"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
