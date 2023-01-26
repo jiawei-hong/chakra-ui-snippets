@@ -310,6 +310,11 @@
     "body": "import { Divider } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Divider"
   },
+  "Import Kbd": {
+    "prefix": "i-kbd",
+    "body": "import { Kbd } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Kbd"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
