@@ -260,6 +260,11 @@
     "body": "import { Select } from '@chakra-ui/react'",
     "description": "🪄 Chakra UI: Import Select"
   },
+  "Import Switch": {
+    "prefix": "i-switch",
+    "body": "import { Switch } from '@chakra-ui/react'",
+    "description": "🪄 Chakra UI: Import Switch"
+  },
   "chakra-hook-use-theme": {
     "prefix": "chakra-use-theme",
     "body": "const theme = useTheme()",
